@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>王小二杂货店</title>
   
+  <subtitle>你怎么信仰，你就怎么生活</subtitle>
+  <link href="https://github.com/SemiExspiravitX/SemiExspiravitX.github.io.git/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://github.com/SemiExspiravitX/SemiExspiravitX.github.io.git/"/>
   <updated>2023-09-05T13:12:28.478Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/SemiExspiravitX/SemiExspiravitX.github.io.git/</id>
   
   <author>
     <name>王小二</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/09/05/hello-world/"/>
-    <id>http://example.com/2023/09/05/hello-world/</id>
+    <link href="https://github.com/SemiExspiravitX/SemiExspiravitX.github.io.git/2023/09/05/hello-world/"/>
+    <id>https://github.com/SemiExspiravitX/SemiExspiravitX.github.io.git/2023/09/05/hello-world/</id>
     <published>2023-09-05T14:11:54.463Z</published>
     <updated>2023-09-05T13:12:28.478Z</updated>
     
