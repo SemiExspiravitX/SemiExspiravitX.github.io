@@ -73,7 +73,7 @@ $.ajax({
   type: 'get',
   url: 'https://apis.map.qq.com/ws/location/v1/ip',
   data: {
-    key: '',  // 这里要写你的KEY!!!
+    key: 'RUOBZ-KJC3B-QOGUR-JRJIZ-ULABT-W2FWL',  // 这里要写你的KEY!!!
     output: 'jsonp',
   },
   dataType: 'jsonp',
@@ -99,7 +99,7 @@ function getDistance(e1, n1, e2, n2) {
 
 function showWelcome() {
 
-  let dist = getDistance(113.34499552, 23.15537143, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
+  let dist = getDistance(104.07233, 30.59928, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
   let pos = ipLoacation.result.ad_info.nation;
   let ip;
   let posdesc;
@@ -3550,3 +3550,19 @@ function toggleWinbox() {
 }
 
 /* 美化模块 end */
+
+
+/* Mirach的js：开始 */
+/* <script> */
+let ref = setInterval(function(){	//每隔2秒尝试播放一次
+    isaplay();
+},2000);
+function isaplay(){
+    $(".aplayer-play").click()	//尝试播放
+    setTimeout(function() {		//延时100毫秒再执行其内部的判断
+        if($(".aplayer-pause").length > 0){    //`aplayer-button aplayer-pause`是否存在
+        clearInterval(ref);		//停止Interval，即停止循环
+    }}, 100);
+}
+/* </script> */
+/* Mirach的js：结束*/

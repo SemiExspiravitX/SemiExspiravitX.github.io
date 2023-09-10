@@ -7757,6 +7757,40 @@ button#go-up:hover #percent {
   font-family: var(--global-font) !important;
 }
 
+.aplayer.aplayer-narrow .aplayer-body {
+  /* left: -66px !important; */
+  bottom: 240px !important;
+}
+.aplayer-body:hover {
+  /* left: 0px !important; */
+  /* bottom: 240px; */
+}
+
+.aplayer .aplayer-lrc p.aplayer-lrc-current {
+    /* 大小 */
+    font-size: 17px;
+    /* 颜色 */
+    color: #228B22;
+    opacity: 1;
+    overflow: visible;
+    height: auto !important;
+    min-height: 16px;
+}
+
+.aplayer .aplayer-lrc p {
+    font-weight: 700;
+    font-size:15px;
+    color:#777;
+    line-height:16px!important;
+    height:16px!important;
+    padding:0!important;
+    margin:0!important;
+    transition:all .5s ease-out;
+    opacity:.4;
+    overflow:hidden
+}
+
+
 /* 背景图片链接输入框placeholder*/
 input#pic-link::-webkit-input-placeholder {
   color: rgb(150, 150, 150);
@@ -8215,8 +8249,8 @@ a:hover {
 /* 帧率检测 */
 #fps {
   position: fixed;
-  left: 10px;
-  bottom: 10px;
+  right: 10px;
+  top: 60px;
   z-index: 1919810;
 }
 [data-theme="light"] #fps {
