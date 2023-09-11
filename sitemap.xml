@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.mirach.cn/personal/about/index.html</loc>
+    
+    <lastmod>2023-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mirach.cn/personal/love/index.html</loc>
+    
+    <lastmod>2023-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mirach.cn/life/games/index.html</loc>
+    
+    <lastmod>2023-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mirach.cn/box/nav/index.html</loc>
+    
+    <lastmod>2023-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mirach.cn/site/census/index.html</loc>
+    
+    <lastmod>2023-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mirach.cn/posts/20230910d.html</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mirach.cn/personal/bb/index.html</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mirach.cn/categories/index.html</loc>
     
     <lastmod>2023-09-10</lastmod>
@@ -14,24 +77,6 @@
     <loc>https://www.mirach.cn/tags/index.html</loc>
     
     <lastmod>2023-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mirach.cn/site/census/index.html</loc>
-    
-    <lastmod>2023-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mirach.cn/personal/bb/index.html</loc>
-    
-    <lastmod>2023-09-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -74,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://www.mirach.cn/life/games/index.html</loc>
-    
-    <lastmod>2023-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.mirach.cn/box/gallery/index.html</loc>
     
     <lastmod>2023-09-09</lastmod>
@@ -93,15 +129,6 @@
   
   <url>
     <loc>https://www.mirach.cn/site/echarts/index.html</loc>
-    
-    <lastmod>2023-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mirach.cn/personal/about/index.html</loc>
     
     <lastmod>2023-09-09</lastmod>
     
@@ -155,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://www.mirach.cn/personal/love/index.html</loc>
-    
-    <lastmod>2023-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.mirach.cn/site/time/index.html</loc>
     
     <lastmod>2023-09-07</lastmod>
@@ -172,66 +190,32 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.mirach.cn/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mirach.cn/posts/20230908d.html</loc>
-    
-    <lastmod>2022-10-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mirach.cn/posts/2013454d.html</loc>
-    
-    <lastmod>2022-10-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://www.mirach.cn/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.mirach.cn/tags/Test/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <loc>https://www.mirach.cn/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.mirach.cn/tags/New/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <loc>https://www.mirach.cn/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.mirach.cn/tags/Markdown/</loc>
-    <lastmod>2023-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mirach.cn/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <loc>https://www.mirach.cn/tags/%E9%9A%8F%E6%84%9F/</loc>
+    <lastmod>2023-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -239,15 +223,8 @@
 
   
   <url>
-    <loc>https://www.mirach.cn/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mirach.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <loc>https://www.mirach.cn/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
